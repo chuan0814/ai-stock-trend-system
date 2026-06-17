@@ -1,0 +1,6 @@
+.app_settings.json
+.streamlit/secrets.toml
+.venv/
+.python_packages/
+.gitdata/
+__pycache__/
